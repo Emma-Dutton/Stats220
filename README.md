@@ -9,12 +9,12 @@ What I am currently learning:
 * Markdown Syntax
 * R & R studio
 
-My preferences in what I have learnt (1 = best)
+My confidence in what I am learning (1 = most confident)
 1. Markdwon Syntax 
 2. R & R studio
 3. HTML
 
-But I must say, no matter the topic, I am learning a significant amount of new knowledge in this course and **I am excited for what is to come.** 
+In this course, I am learning a significant amount of new knowledge in this course and **I am excited for what is to come.** 
 
 ![smart cat](https://gifdb.com/images/thumbnail/smart-cat-at-laptop-pc-0onntgj5bnj72p09.gif)
 
