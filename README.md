@@ -10,7 +10,7 @@ What I am currently learning:
 * R & R studio
 
 My confidence in what I am learning (1 = most confident)
-1. Markdwon Syntax 
+1. Markdown Syntax 
 2. R & R studio
 3. HTML
 
